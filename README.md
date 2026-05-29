@@ -8,4 +8,4 @@ This is a tool that seperates hexadecimal with spaces, here's how it works:
 
 3. Copy the string with the copy button, surprisingly, the copy to clipboard mechanism is most of the JavaScript!
 
-If you wanna see more sites i made, go to raman15scratch.github.io/CoreCoding
+If you wanna see more sites i made, go to https://raman15scratch.github.io/CoreCoding
